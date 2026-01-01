@@ -39,5 +39,6 @@ Arclize aims to:
 
 ## Connect
 If you’d like to follow this journey or collaborate:
-- [Founder LinkedIn]( https://www.linkedin.com/in/cody-rumford/)
-- [Arclize](https://www.arclize.com)
+- [Personal LinkedIn]( https://www.linkedin.com/in/cody-rumford/)
+- [Company LinkedIn]( https://www.linkedin.com/company/arclize/)
+- [Company Website](https://www.arclize.com)
