@@ -23,6 +23,7 @@ The goal of this repo is to:
 - **MINITAB**: Software for statistical analysis and visualization
 - **SAP**: Analysis of business data using SAP business objects
 - **SEEQ**: For time series process analytics
+- **Advanced Excel**: Macros, complex formulas, and data visualization
 
 ---
 
