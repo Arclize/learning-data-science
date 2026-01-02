@@ -12,7 +12,7 @@ The goal of this repo is to:
 
 ## Technologies & Tools
 - **PowerBI**: business intelligence visualizations, advanced DAX, and m for Power Query
-- **Python**: Data Science and process automation.
+- **Python**: Data Science and process automation applying pandas, numpy, and seaborn
 - **SQL**: Query optimization and relational database design.
 - **MATLAB**: MATLAB for tasks like signal processing, optimization, and simulation, enabling rapid prototyping and analysis.
 - **MINITAB**: Software for statistical analysis and visualization
